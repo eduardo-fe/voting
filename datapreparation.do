@@ -3,31 +3,13 @@
 	Eduardo Fe
 	University of Manchester.
 	
-	This version: Version 1.0. 
-	Date: 21 June 2024
+	This version: Version 2.0. 
+	Date: 15 December 2025
 	
 	Part 1: Functions
 	Part 2: Data Preparation
 	Part 3: Analysis. 
 	
-	Revision 30 June 2025
-	
-	Attitudes:
-		Donation to charitiy cham chargv
-		volunteered volun 2,4, 6,...14
-		environmental habits envhabit1-11
-		belong to a specific religion oprlg2 (1, 4, 8, 12 waves)
-		scenv_bccc behaviour affects climate change (4, 10)
-		scenv_ccls Do not believe my behaviour affects climate change (1)
-		scenv_crex evnorn has been exagerated (4,10)
-		scenv_crlf current live styles envoronmetally friendly (4,10)
-		etc
-		scageneralelection_w12.votetxspnd Raise taxes (11 and 12
-		eumem 8, 10-12)
-		
-		personal income fimngrs_dv 
-		
-		oppolc should be limit to income (BHPS )
 		
 */
 qui {
