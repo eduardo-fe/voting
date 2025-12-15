@@ -1,4 +1,4 @@
-# Education, Partisan Alignment, and Early Life Adversity
+# Education and Long Term Partisan Alignment
 
 ## Overview
 
