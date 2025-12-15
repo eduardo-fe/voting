@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and data preparation scripts used in the analysis presented in the paper "Education, Partisan Alignment, and Early Life Adversity" by Eduardo Fé. The study examines the causal effect of education on political alignment and engagement using a randomization-based Fuzzy Regression Discontinuity Design (FRDD). The paper exploits the 1972 increase in the U.K. school leaving age from 15 to 16 to estimate the long-term effects of education on political alignment, using data from the UK Household Longitudinal Study (HLS) and the British Household Panel Survey (BHPS).
+This repository contains the code and data preparation scripts used in the analysis presented in the paper "Education and Long Term Partisan Alignment" by Eduardo Fé. The study examines the causal effect of education on political alignment and engagement using a randomization-based Fuzzy Regression Discontinuity Design (FRDD). The paper exploits the 1972 increase in the U.K. school leaving age from 15 to 16 to estimate the long-term effects of education on political alignment, using data from the UK Household Longitudinal Study (HLS) and the British Household Panel Survey (BHPS).
 
 ## Requirements
 
@@ -13,7 +13,7 @@ You will need to install the rdrandinf package by Matias Cattaneo and co-authors
 
 
 If you use this code or data in your work, please cite:
-Fé, E. (2025). "Education, Partisan Alignment, and Early Life Adversity." University of Manchester.
+Fé, E. (2025). "Education and Long Term Partisan Alignment." University of Manchester.
 
 Contact
 
